@@ -1,6 +1,6 @@
 # DocGenerator
 
-**TODO: Add description**
+Makes easy to generate documentation of Web API
 
 ## Installation
 
